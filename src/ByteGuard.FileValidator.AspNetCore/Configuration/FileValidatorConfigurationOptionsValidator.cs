@@ -10,7 +10,7 @@ namespace ByteGuard.FileValidator.AspNetCore.Configuration
     public class FileValidatorConfigurationOptionsValidator : IValidateOptions<FileValidatorConfiguration>
     {
         /// <inheritdoc />
-        public ValidateOptionsResult Validate(string name, FileValidatorConfiguration config)
+        public ValidateOptionsResult Validate(string? name, FileValidatorConfiguration config)
         {
             try
             {

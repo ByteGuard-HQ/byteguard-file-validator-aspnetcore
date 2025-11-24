@@ -5,6 +5,9 @@ using Microsoft.Extensions.Options;
 
 namespace ByteGuard.FileValidator.AspNetCore.Configuration
 {
+    /// <summary>
+    /// Service collection extensions for adding the file validator service.
+    /// </summary>
     public static class ServiceCollectionExtensions
     {
         /// <summary>
