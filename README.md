@@ -2,7 +2,7 @@
 
 `ByteGuard.FileValidator.AspNetCore` provides first-class integration of `ByteGuard.FileValidator` with ASP.NET Core.
 
-It gives you:
+It gives you: 
 - Extension methods to register the file validator in the DI container
 - Easy configuration via appsettings.json or fluent configuration in code
 - A single, consistent way to validate uploaded files across your ASP.NET Core apps
