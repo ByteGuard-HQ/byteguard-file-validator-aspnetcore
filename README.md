@@ -70,12 +70,12 @@ It's possible to configure the `FileValidator` through `appsettings.json`.
 
 ```json
 {
-    "FileValidatorConfiguration": {
-        "SupportedFileTypes": [ ".pdf", ".jpg", ".png" ],
-        "FileSizeLimit": 26214400, // (25 MB) Prefer "FriendlyFileSizeLimit"
-        "FriendlyFileSizeLimit": "25MB", // Preferred over "FileSizeLimit" (supports KB, MB, and GB)
-        "ThrowExceptionOnInvalidFile": true
-    }
+  "FileValidatorConfiguration": {
+    "SupportedFileTypes": [ ".pdf", ".jpg", ".png" ],
+    "FileSizeLimit": 26214400,
+    "FriendlyFileSizeLimit": "25MB",
+    "ThrowExceptionOnInvalidFile": true
+  }
 }
 ```
 
