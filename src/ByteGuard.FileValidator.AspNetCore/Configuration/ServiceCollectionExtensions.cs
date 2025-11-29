@@ -1,5 +1,4 @@
-﻿using System;
-using ByteGuard.FileValidator.Configuration;
+﻿using ByteGuard.FileValidator.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Options;
 

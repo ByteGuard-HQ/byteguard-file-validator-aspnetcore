@@ -1,6 +1,5 @@
 <Solution>
   <Folder Name="/assets/">
-    <File Path="Build.ps1" />
     <File Path="Directory.Build.props" />
     <File Path="Directory.Version.props" />
     <File Path="LICENSE" />

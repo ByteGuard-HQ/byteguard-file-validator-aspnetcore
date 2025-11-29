@@ -1,4 +1,10 @@
-# ByteGuard.FileValidator.AspNetCore ![NuGet Version](https://img.shields.io/nuget/v/ByteGuard.FileValidator.AspNetCore)
+# ByteGuard.FileValidator.AspNetCore
+
+## ⚠️ DEPRECATION WARNING
+
+_This repo has been archived. Refer to [ByteGuard.FileValidator.Extensions.DependencyInjection](https://github.com/ByteGuard-HQ/byteguard-file-validator-extensions-dependency-injection) for of integration with `Microsoft.Extensions.DependencyInjection` instead._
+
+---
 
 `ByteGuard.FileValidator.AspNetCore` provides first-class integration of `ByteGuard.FileValidator` with ASP.NET Core.
 
